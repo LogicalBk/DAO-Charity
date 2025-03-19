@@ -20,3 +20,4 @@ The vision of DAO for Charity is to revolutionize the charitable sector by provi
 - **Voting Mechanism:** Token-based voting system to allow fair decision-making.
 - **Immutable Records:** Every transaction and decision is permanently stored on the blockchain.
 - **User-friendly Interface:** Easy-to-use platform for donors, charities, and volunteers to participate in governance.
+## Contract Address 
